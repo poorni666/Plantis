@@ -67,7 +67,7 @@ Among the models tested, the strongest results came from:
 - **Random Forest Classifier**
 - **Logistic Regression with balanced class weights**
 
-These models performed better overall than the default Logistic Regression and SVM-based approaches, especially when considering the more informative evaluation metrics beyond plain accuracy. 
+These models performed better overall than the default Logistic Regression and SVM-based approaches, especially when considering the more informative evaluation metrics beyond accuracy that better reflect performance across all 36 leaf classes, especially the underrepresented ones.. 
 
 ## Challenges and Conclusion
 
