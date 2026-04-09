@@ -31,6 +31,10 @@ The dataset contains **340 samples** and **16 columns**, including the target va
 
 Before training the models, the dataset was explored to understand feature behavior and data quality. The analysis showed that many features were skewed and contained outliers, which made preprocessing an important step. Another key observation was that the target classes were not evenly distributed, meaning the dataset was imbalanced. This had a direct impact on model selection and evaluation. 
 
+<div align="center">
+  <img src="assets/class_dis.png" alt="Dataset Overview" width="900">
+</div>
+
 ## Methods
 
 Since the dataset is relatively small, the project focuses on simpler supervised learning methods rather than highly complex models. The following approaches were tested:
