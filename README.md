@@ -46,7 +46,7 @@ Since the dataset is relatively small, the project focuses on simpler supervised
 - Support Vector Machine
 - One-vs-Rest Support Vector Machine
 
-The models were trained and compared with special attention to the imbalance in the dataset. In particular, balancing class weights helped improve Logistic Regression, while Random Forest performed well even in its default form. :contentReference[oaicite:8]{index=8}
+The models were trained and compared with special attention to the imbalance in the dataset. In particular, balancing class weights helped improve Logistic Regression, while Random Forest performed well even in its default form.
 
 ## Evaluation
 
