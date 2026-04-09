@@ -1,6 +1,6 @@
 # Plantis
 
-Plantis is a supervised machine learning project for multiclass leaf classification. It uses structured leaf features to compare traditional machine learning models in a simple, interpretable, and practical way. The project explores how models such as Logistic Regression, Support Vector Machine, and Random Forest perform on handcrafted morphological and statistical leaf attributes, rather than image-based inputs. The goal of this project is to develop a method for leaf identification based on the provided leaf attributes and to compare the performance of different supervised machine learning models.
+Plantis is a supervised machine learning project for multiclass leaf classification. It uses structured leaf features to compare traditional machine learning models in a simple, interpretable, and practical way. The project explores how models such as Logistic Regression, Support Vector Machine, and Random Forest perform on handcrafted morphological and statistical leaf attributes, rather than image-based inputs. The goal of this project is to develop a method for leaf identification based on the provided leaf attributes and to compare the performance of different supervised machine learning models. This project was built as part of Master degree program at University of Trieste for Introduction to Machine Learning course.
 
 <div align="center">
   <img src="assets/data_overview.png" alt="Dataset Overview" width="600">
