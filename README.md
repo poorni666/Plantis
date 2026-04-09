@@ -8,6 +8,7 @@ Plantis is a supervised machine learning project for multiclass leaf classificat
 
 ## Repository Structure
 
+```text
 Plantis/
 ├── README.md
 ├── .gitignore
@@ -19,6 +20,8 @@ Plantis/
 │   └── 02_models.ipynb
 └── assets/
     └── images/
+
+```
     
 ## Dataset
 
